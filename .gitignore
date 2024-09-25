@@ -1,8 +1,10 @@
+#### when we want any file to commit on git hub we send that file here to do so.
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
 *$py.class
 
+penv
 # C extensions
 *.so
 
